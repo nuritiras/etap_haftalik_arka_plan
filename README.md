@@ -1,4 +1,4 @@
-## PARDUS ETAP 23 Her Hafta Otomatik Değişen Arka Plan Sistemi ve Kullanıcıların Arka Plan Değiştirmesini Engelleme
+### Pardus Etap 23 Her Hafta Otomatik Değişen Arka Plan Sistemi ve Kullanıcıların Arka Plan Değiştirmesini Engelleme
 
 Windows üzerinde paylaşılan bir klasör içindeki resimleri,
 

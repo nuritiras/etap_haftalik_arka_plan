@@ -1,7 +1,4 @@
 PARDUS ETAP 23 Her Hafta Otomatik Değişen Arka Plan Sistemi ve Kullanıcıların Arka Plan Değiştirmesini Engelleme
-- Aralık 09, 2025
-🎯 1. Amaç
-Bu dokümanın amacı:
 
 Windows üzerinde paylaşılan bir klasör içindeki resimleri,
 

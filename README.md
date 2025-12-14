@@ -24,7 +24,7 @@ Bu çözümde:
 
 sudo apt update
 
-sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-3.0 samba cifs-utils -y
+sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-3.0 samba dconf-cli cifs-utils -y
 
 ### Çalıştırma:
 

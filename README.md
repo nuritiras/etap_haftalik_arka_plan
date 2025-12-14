@@ -1,4 +1,4 @@
-PARDUS ETAP 23 Her Hafta Otomatik Değişen Arka Plan Sistemi ve Kullanıcıların Arka Plan Değiştirmesini Engelleme
+## PARDUS ETAP 23 Her Hafta Otomatik Değişen Arka Plan Sistemi ve Kullanıcıların Arka Plan Değiştirmesini Engelleme
 
 Windows üzerinde paylaşılan bir klasör içindeki resimleri,
 
@@ -20,13 +20,13 @@ Bu çözümde:
 
 ✔ Dconf Lockdown ile arka plan değişim engellenir
 
-Pardus ETAP 23’te Gerekli Paketler
+### Pardus ETAP 23’te Gerekli Paketler
 
 sudo apt update
 
 sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-3.0 samba cifs-utils -y
 
-Çalıştırma:
+### Çalıştırma:
 
 sudo chmod +x etap_duvar.py
 
